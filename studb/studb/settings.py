@@ -25,7 +25,7 @@ SECRET_KEY = '&%-j+us!cjo9q$3&wu8is3r(-1bs0jw@^t)$av42ewp4mht#h0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1',]
+ALLOWED_HOSTS = ['127.0.0.1','studboi.herokuapp.com/']
 
 STATICFILES_DIRS = [
     "/Projects/tutorials/django/studboi/static",
